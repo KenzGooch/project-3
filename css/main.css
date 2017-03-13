@@ -59,7 +59,7 @@ html,body{
   min-height: 100%
 }
 body{
-  background-image: url(../img/wholecar.jpeg);
+  background-image: url(../img/wholecar.jpg);
   background-position: center;
   color: white;
   font-weight: 100;
@@ -91,7 +91,7 @@ h3 {
   background-color: #2db4ec;
   border-radius: 8px;
   padding: 5px 20px;
-  font-size: 45px;
+  font-size: 32px;
   color: white;
   text-transform: uppercase;
   text-decoration: none;
@@ -111,9 +111,11 @@ h3 {
 
 }
 .content-box {
-  background-color: black;
-  padding: 50px
+  background-color: none;
+  padding-top: 150px;
+  padding-left: 220px;
 }
+
 
 
 
