@@ -63,7 +63,10 @@ body{
   background-position: center;
   color: white;
 }
-
+h3 {
+  color: #2db4ec;
+  font-size: 16px;
+}
 .start-section {
   position: absolute;
   top: 0;
@@ -91,13 +94,24 @@ body{
   text-transform: uppercase;
   text-decoration: none;
 }
-
+.btn-sml {
+  background-color: #2db4ec;
+  border-radius: 4px;
+  padding: 5px 20px;
+  font-size: 18px;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
 
 .page-section {
 
 
 }
-
+.content-box {
+  background-color: black;
+  padding: 10px 40px
+}
 
 
 
