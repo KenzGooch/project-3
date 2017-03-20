@@ -89,27 +89,27 @@ h3 {
 }
 
 .engine-button {
-  top: 430px;
+  top: 330px;
   left: 300px;
 }
 .brakes-button {
-  top: 500px;
+  top: 400px;
   left: 250px;
 }
 .cockpit-button {
-  top: 340px;
+  top: 240px;
   left: 600px;
 }
 .wheels-button {
-  top: 480px;
+  top: 380px;
   left: 775px;
 }
 .frame-button {
-  top: 470px;
+  top: 370px;
   left: 500px;
 }
 .lights-button {
-  top: 420px;
+  top: 320px;
   left: 125px;
 }
 
